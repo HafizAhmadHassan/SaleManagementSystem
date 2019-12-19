@@ -1,0 +1,43 @@
+[2017-12-02 22:20:30] [info]  [ 4652] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-02 22:20:30] [info]  [ 4652] Service Tomcat8 name Apache Tomcat 8.5 Tomcat8
+[2017-12-02 22:20:31] [info]  [ 4652] Service 'Tomcat8' installed
+[2017-12-02 22:20:31] [info]  [ 4652] Commons Daemon procrun finished
+[2017-12-02 22:20:31] [info]  [ 6552] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-02 22:20:31] [info]  [ 6552] Updating service...
+[2017-12-02 22:20:32] [info]  [ 6552] Service 'Tomcat8' updated
+[2017-12-02 22:20:32] [info]  [ 6552] Update service finished.
+[2017-12-02 22:20:32] [info]  [ 6552] Commons Daemon procrun finished
+[2017-12-02 22:20:32] [info]  [ 2116] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-02 22:20:32] [info]  [ 2116] Updating service...
+[2017-12-02 22:20:32] [info]  [ 2116] Service 'Tomcat8' updated
+[2017-12-02 22:20:32] [info]  [ 2116] Update service finished.
+[2017-12-02 22:20:32] [info]  [ 2116] Commons Daemon procrun finished
+[2017-12-02 22:20:32] [info]  [ 3256] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-02 22:20:32] [info]  [ 3256] Updating service...
+[2017-12-02 22:20:32] [info]  [ 3256] Service 'Tomcat8' updated
+[2017-12-02 22:20:33] [info]  [ 3256] Update service finished.
+[2017-12-02 22:20:33] [info]  [ 3256] Commons Daemon procrun finished
+[2017-12-02 22:20:33] [info]  [ 4180] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-02 22:20:33] [info]  [ 4180] Updating service...
+[2017-12-02 22:20:33] [info]  [ 4180] Service 'Tomcat8' updated
+[2017-12-02 22:20:33] [info]  [ 4180] Update service finished.
+[2017-12-02 22:20:33] [info]  [ 4180] Commons Daemon procrun finished
+[2017-12-02 22:26:18] [info]  [  868] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-02 22:26:18] [info]  [  868] Debugging 'Tomcat8' service...
+[2017-12-02 22:26:19] [info]  [  868] Starting service...
+[2017-12-02 22:26:26] [info]  [  868] Service started in 7099 ms.
+[2017-12-02 22:30:07] [info]  [ 3052] Console CTRL+CLOSE event signaled
+[2017-12-02 22:30:07] [info]  [ 3052] Stopping service...
+[2017-12-02 22:30:18] [info]  [ 3824] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-02 22:30:18] [info]  [ 3824] Debugging 'Tomcat8' service...
+[2017-12-02 22:30:18] [info]  [ 3824] Starting service...
+[2017-12-02 22:30:19] [info]  [ 3824] Service started in 1206 ms.
+[2017-12-02 22:43:20] [info]  [  500] Console CTRL+CLOSE event signaled
+[2017-12-02 22:43:20] [info]  [  500] Stopping service...
+[2017-12-02 22:43:21] [info]  [  500] Service stop thread completed.
+[2017-12-02 22:48:12] [info]  [ 2972] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2017-12-02 22:48:12] [info]  [ 2972] Debugging 'Tomcat8' service...
+[2017-12-02 22:48:12] [info]  [ 2972] Starting service...
+[2017-12-02 22:48:15] [info]  [ 2972] Service started in 2189 ms.
+[2017-12-02 22:49:56] [info]  [ 1608] Console CTRL+CLOSE event signaled
+[2017-12-02 22:49:56] [info]  [ 1608] Stopping service...

@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:27:11 +0500] "GET /SalesManagement HTTP/1.1" 404 1089
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:27:11 +0500] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:28:03 +0500] "GET /SalesManagement HTTP/1.1" 404 1089
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:29:45 +0500] "GET /SalesManagement HTTP/1.1" 404 1089
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:30:23 +0500] "GET /SalesManagement HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:30:46 +0500] "GET /SalesManagement/ HTTP/1.1" 200 2358
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:30:46 +0500] "GET /SalesManagement/custom/custom.js HTTP/1.1" 200 948
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:30:46 +0500] "GET /SalesManagement/custom/custom.css HTTP/1.1" 200 3209
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:30:46 +0500] "GET /SalesManagement/bootstrap/js/bootstrap.js HTTP/1.1" 200 111390
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:30:46 +0500] "GET /SalesManagement/jQuery/jquery-3.2.1.js HTTP/1.1" 404 1120
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:30:46 +0500] "GET /SalesManagement/bootstrap/css/bootstrap.css HTTP/1.1" 200 156884
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:30:46 +0500] "GET /SalesManagement/jQuery/jquery-3.2.1.js HTTP/1.1" 404 1120
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:48:33 +0500] "GET /SalesManagement HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:48:38 +0500] "GET /SalesManagement/ HTTP/1.1" 200 2238
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:48:38 +0500] "GET /SalesManagement/jQuery/jquery-3.2.1.js HTTP/1.1" 404 1120
