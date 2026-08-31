@@ -1,4 +1,5 @@
 # Sales Management System
+*Created: 2019-12-19*
 
 A desktop **sales management** application built during an **Object Analysis and Design (OAD)** course.
 
