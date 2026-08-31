@@ -1,4 +1,3 @@
-# SaleManagementSystem
-This is Sales Management System Desktop Application Built During Object Analysis and Design Course
+# Sales Management System
 
-pdf files contains diagrams of Design and Analysis
+A desktop sales management application built during an Object Analysis and Design course. It is a NetBeans project that includes analysis and design PDF diagrams documenting the system structure and development process.
